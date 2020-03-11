@@ -28,7 +28,7 @@ Used the information we have to create a table schema for each of the six CSV fi
 
 * Import each CSV file into the corresponding SQL table.
 
-#### Data Analysis
+#### Data Engineering
 
 Once you have a complete database, do the following:
 
