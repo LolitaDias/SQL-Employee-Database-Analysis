@@ -12,7 +12,7 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 3. Data Analysis
 
-### Before You Begin
+
 
 1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
 
