@@ -44,7 +44,7 @@ Following questions were answered as a part of this assignment:
 1. What are the most common employee salary ranges?
 2. What is the average salary for each employee title?
 
-#### Datasets
+## Datasets
 
 https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/departments.csv
 https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/dept_emp.csv
@@ -53,7 +53,7 @@ https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/em
 https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/salaries.csv
 https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/titles.csv
 
-#### Tasks:
+## Tasks:
 
 #### Data Modeling
 
@@ -85,8 +85,10 @@ https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/ti
 12. Plot bar chart of average employee salary by title.
 
 
-#### Results
+## Results
 ![ERD](EmployeeSQL/ERD.png)
+
+## Observations
 
 
 
