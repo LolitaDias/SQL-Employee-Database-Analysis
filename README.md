@@ -86,7 +86,7 @@ https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/ti
 
 
 #### Results
-![ERD](EmployeeSQL/ERD.PNG)
+![ERD](EmployeeSQL/ERD.png)
 
 
 
