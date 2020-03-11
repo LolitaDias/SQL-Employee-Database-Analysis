@@ -22,8 +22,6 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 
 
-5. Push the above changes to GitHub.
-
 ## Instructions
 
 #### Data Modeling
