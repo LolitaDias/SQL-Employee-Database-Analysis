@@ -105,6 +105,12 @@ https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/ti
 7. A total of 137,952 records are present for employees assigned to the sales and/or development departments.
 8. There are 1,638 unique employee last names, with all but one having over 140 occurrences.
 
+#### Data Analysis
+1. The vast majority of employees have salaries between $40,000 and $50,000, with a significant decrease in frequency to the next highest range. The frequencies decrease slowly across the remaining salary ranges, with no salaries being greater than $130,000.
+2. Staff and Senior Staff have the highest average salaries, followed by Managers. Technique Leaders, Engineers, Senior Engineers, and Assistant Engineers all have approximately the same average salary, with the difference being no greater than $87.
+
+## Disclaimer
+The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual corporate employee data is unknown.
 
 
 
