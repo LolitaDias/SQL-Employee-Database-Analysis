@@ -20,7 +20,7 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 
 
-4. Add your files to this folder.
+
 
 5. Push the above changes to GitHub.
 
