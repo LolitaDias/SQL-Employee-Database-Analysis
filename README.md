@@ -18,7 +18,7 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 
 
-3. Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: **EmployeeSQL**.
+
 
 4. Add your files to this folder.
 
