@@ -64,7 +64,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 3. Create a bar chart of average salary by title.
 
-## Epilogue
+
 
 
 
