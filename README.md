@@ -14,7 +14,6 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 
 
-
 ## Instructions
 
 #### Data Modeling
