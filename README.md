@@ -80,6 +80,4 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 * Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
 
-### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
