@@ -12,7 +12,7 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 3. Data Analysis
 
-## Instructions
+
 
 #### Data Modeling
 
