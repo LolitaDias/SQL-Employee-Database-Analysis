@@ -16,7 +16,9 @@ The goal of this project was to extract, process, and analyze corporate employee
 
 #### Data Modeling
 
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+Tasks:
+
+Inspected the CSVs and sketched out an ERD of the tables. Used a tool  [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com) to answer the question : How do the datasets of employee data relate to each other?
 
 #### Data Engineering
 
