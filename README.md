@@ -90,6 +90,11 @@ https://github.com/LolitaDias/SQL-Employee-Database-Analysis/blob/master/data/ti
 
 ## Observations
 
+#### Data Modeling
+1. There are two primary keys of employee number and department number in the employees table and departments table respectively.
+2. Employee number is a foreign key in the titles, salaries, and department employee tables, which links them to the employees table.
+3. Department number is a foreign key in the department manager and department employee tables, which links them to the departments table.
+
 
 
 
