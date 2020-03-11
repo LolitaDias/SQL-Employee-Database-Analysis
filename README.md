@@ -12,7 +12,7 @@ In this assignment, we have designed the tables to hold data in the CSVs, import
 
 3. Data Analysis
 
-
+The goal of this project was to extract, process, and analyze corporate employee data contained in multiple CSV datasets. The former tasks were completed using SQL queries (through PostgreSQL) to store and inspect the data, and the latter was performed using Python with Pandas, Numpy, and Matplotlib (through Jupyter Notebooks)to generate meaningful visualizations.
 
 #### Data Modeling
 
