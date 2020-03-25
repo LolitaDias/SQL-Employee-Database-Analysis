@@ -1,10 +1,10 @@
-# SQL Homework - Employee-Database-Analysis
+# SQL - Employee-Database-Analysis
 
 ![sql.png](sql.png)
 
 ## Background
 
-In this assignment, we have designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, we have performed:
+This project is designed to create the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, we have performed:
 
 1. Data Modeling
 
